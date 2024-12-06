@@ -1,3 +1,5 @@
+download-link: https://www.mongodb.com/try/download/community (community server)✅ download-link: https://www.mongodb.com/try/download/shell (shell)✅ download-link: https://www.mongodb.com/try/download/tools (compass)
+
 ### MongoDB Basics: Overview, Setting Up, Understanding Collections/Documents
 
 #### 1. **Overview of MongoDB**
